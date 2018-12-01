@@ -1,0 +1,26 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "Ready-to-use enviroment to NodeJS and MySQL database",
+  "main": "index.js",
+  "author": "Vitor Freitas",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node ./index"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "javascript"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-node6": "^11.0.0"
+  }
+}
