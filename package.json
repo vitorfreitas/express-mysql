@@ -6,7 +6,7 @@
   "author": "Vitor Freitas",
   "license": "MIT",
   "scripts": {
-    "start": "babel-node ./index"
+    "start": "babel-node index"
   },
   "keywords": [
     "nodejs",
